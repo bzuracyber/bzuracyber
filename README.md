@@ -12,6 +12,22 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
+
+## ✅ Compliance Automation Projects
+- **Continuous Compliance as Code Framework**  
+- **[Cloud Compliance Automation Tool](https://github.com/annamravitejas/cloud-compliance-automation)**  
+- **Compliance-as-Code Pipeline**  
+
+## 🤖 AI SOC Analyst Projects
+- **[AI-Powered SOC Assistant](https://elbazhazem.github.io/unveiling-LLM-SOC-Agent/)**  
+- **Automated Incident Response with AI**  
+- **[AI-Powered Threat Detection System](https://github.com/GauravGhandat-23/AI-Powered-Cybersecurity-Threat-Detection-System)**  
+
+## 🔍 Additional Security Automation Projects
+- **Cloud Security Posture Management (CSPM)**  
+- **Threat Hunting with KQL and Sentinel**  
+- **Security Event Analysis Automation Tool** 
+
 <hr/>
 
 ## 🤳 Connect With Me
