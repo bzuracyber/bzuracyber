@@ -16,7 +16,7 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 ## ✅ Compliance Automation Projects
 - **Continuous Compliance as Code Framework**  
 - **[Cloud Compliance Automation Tool](https://github.com/annamravitejas/cloud-compliance-automation)**  
-- **Compliance-as-Code Pipeline**  
+- **[Azure Compliance-as-Code Pipeline]()**  
 
 ## 🤖 AI SOC Analyst Projects
 - **[AI-Powered SOC Assistant](https://elbazhazem.github.io/unveiling-LLM-SOC-Agent/)**  
