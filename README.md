@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/daniel-bzura-cissp-0b3a9b1b5/">Daniel Bzura</a> Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/daniel-bzura-cissp-0b3a9b1b5/">Daniel Bzura's</a> Cybersecurity Project Portfolio 🔐
 
 Cybersecurity engineer with hands-on experience in vulnerability management, compliance automation, and cloud security. I specialize in building secure architectures, implementing DISA STIG and NIST controls, and leveraging automation with PowerShell and Python to streamline remediation. My projects showcase real-world security practices—from hardening systems in Azure to documenting compliance through SSPs and POA&Ms—demonstrating both technical depth and governance expertise.
 
