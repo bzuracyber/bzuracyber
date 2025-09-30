@@ -18,8 +18,7 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 - **[Azure Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
 
 ## AI SOC Analyst Projects
-- **[AI-Powered SOC Assistant](https://elbazhazem.github.io/unveiling-LLM-SOC-Agent/)**   
-- **[AI-Powered Threat Detection System](https://github.com/GauravGhandat-23/AI-Powered-Cybersecurity-Threat-Detection-System)**  
+- **[AI-Powered SOC Assistant](https://elbazhazem.github.io/unveiling-LLM-SOC-Agent/)** 
 
 
 <hr/>
