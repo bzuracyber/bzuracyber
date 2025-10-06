@@ -17,16 +17,3 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 - **[Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
 
 <hr/>
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-
-[linkedin]: https://www.linkedin.com/in/daniel-bzura-cissp-0b3a9b1b5/
-[instagram]: https://www.instagram.com/bzuracyber/
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
