@@ -14,8 +14,7 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bzuracyber/Automated-Vulnerability-Remediation)**
 
 ## Compliance Automation Projects
-- **[Cloud Compliance Automation Tool](https://github.com/annamravitejas/cloud-compliance-automation)**  
-- **[Azure Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
+- **[Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
 
 <hr/>
 
