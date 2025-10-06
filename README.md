@@ -7,6 +7,7 @@ Cybersecurity engineer with hands-on experience in vulnerability management, com
 
 - **[Container Security Lab with Docker and EKS](https://github.com/bzuracyber/container-security-lab-docker-eks)**
 - **[Simple Terraform Deployment](https://github.com/bzuracyber/simple-terraform-lab)**
+- **[CI/CD Pipeline Security](https://github.com/bzuracyber/CI-CD-Security-Pipeline-with-SAST-and-IaC-Scanning)**
 
 ## Vulnerability Management
 
