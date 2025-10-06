@@ -15,3 +15,21 @@
 - **[Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
 
 <hr/>
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: allow-backend-service1-ingress
+spec:
+  podSelector:
+    matchLabels:
+      app: replace-with-service2-label
+  policyTypes:
+  - replace-with-policy-type
+  ingress:
+  - from:
+    - podSelector:
+        matchLabels:
+          app: replace-with-service1-label
+    ports:
+    - protocol: TCP
+      port: replace-with-service2-listening-port
