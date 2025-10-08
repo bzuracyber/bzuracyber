@@ -9,7 +9,7 @@
 
 - **[Simple Terraform Deployment](https://github.com/bzuracyber/first-terraform-deployment)**
 
-## Docker
+## Docker 🐳
 
 - **[Docker Sandbox Deployment](https://github.com/bzuracyber/docker-sandbox-deployment)**
 
@@ -17,12 +17,12 @@
 
 - **[Simple Kubernetes Deployment](https://github.com/bzuracyber/simple-kubernetes-deployment)**
 
-## SAST/SCA
+## SAST/SCA 
 
 - **[Detecting Vulnerabilities Using SemGrep]**
 - **[Container & Dependency Security Scanning Using Trivy]**
 
-## Python
+## Python 
 
 - **[Stock Portfolio Tracker](https://github.com/bzuracyber/stock-portfolio-tracker)**
 
