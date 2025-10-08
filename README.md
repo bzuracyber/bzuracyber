@@ -22,6 +22,10 @@
 - **[Detecting Vulnerabilities Using SemGrep]**
 - **[Container & Dependency Security Scanning Using Trivy]**
 
+## Python
+
+- **[Stock Portfolio Tracker](https://github.com/bzuracyber/stock-portfolio-tracker)**
+
 ## Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/bzuracyber/Vulnerability-Management)**
