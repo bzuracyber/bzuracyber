@@ -19,8 +19,8 @@
 
 ## SAST/SCA
 
-- **[Detecting Vulnerabilities Using SemGrep]
-- **[Container & Dependency Security Scanning Using Trivy]
+- **[Detecting Vulnerabilities Using SemGrep]**
+- **[Container & Dependency Security Scanning Using Trivy]**
 
 ## Vulnerability Management
 
