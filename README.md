@@ -13,10 +13,7 @@
   <img src="https://img.shields.io/badge/PenTest%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
 
   <!-- Microsoft -->
-  <img src="https://img.shields.io/badge/SC_200-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AZ_500-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SC_900-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AZ_104-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_Administrator-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 
   <!-- AWS -->
