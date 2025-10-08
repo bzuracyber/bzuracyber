@@ -42,7 +42,7 @@
 ---
 
 Welcome to my hands-on security engineering portfolio! 🔐  
-Focused on **container security, compliance automation, and reproducible labs** — all designed to be reviewer-friendly and audit-ready.  
+Focused on **container security, compliance automation, and reproducible labs**
 
 ---
 
