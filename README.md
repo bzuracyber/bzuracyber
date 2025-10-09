@@ -45,8 +45,8 @@ Focused on **container security, compliance automation, and reproducible labs**
 
 ## 🌐 Personal Website
 
-Check out my personal website for a full view of my work, certifications, and community projects:  
-👉 [danielbzura.com](https://danielbzura.com)
+- Check out my personal website for a full view of my work, certifications, and community projects:  
+- 👉 [danielbzura.com](https://danielbzura.com)
 
 ---
 
