@@ -43,7 +43,7 @@ Focused on **container security, compliance automation, and reproducible labs**
 
 ---
 
-# 🏠 <a href="https://www.danielbzura.com">danielbzura.com's</a>
+# 🏠 <a href="https://www.danielbzura.com">danielbzura.com</a>
 
 - *A central hub for my cybersecurity projects, volunteering as CTO at PolishYouth.org, and community leadership with Orly FC*
 
