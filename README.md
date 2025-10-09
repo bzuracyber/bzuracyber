@@ -75,9 +75,8 @@ Focused on **container security, compliance automation, and reproducible labs**
 
 ## 🧪 SAST / SCA  
 
-- 🕵️ **[Detecting Vulnerabilities Using SemGrep]**  
-- 🛡️ **[Container & Dependency Security Scanning Using Trivy]**  
-
+- 🕵️ **[Detecting Vulnerabilities Using SemGrep](https://github.com/bzuracyber/Detecting-Vulnerabilities-Using-SemGrep)**  
+- 🛡️ **[Container & Dependency Security Scanning Using Trivy](https://github.com/bzuracyber/Container-Dependency-Security-Scanning-Using-Trivy)**  
 
 ---
 
