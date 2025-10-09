@@ -43,6 +43,13 @@ Focused on **container security, compliance automation, and reproducible labs**
 
 ---
 
+## 🌐 Personal Website
+
+Check out my personal website for a full view of my work, certifications, and community projects:  
+👉 [danielbzura.com](https://danielbzura.com)
+
+---
+
 ## 🛡️ Platform Security  
 
 - 🔒 **[Container Security Lab with Docker and EKS](https://github.com/bzuracyber/container-security-lab-docker-eks)**  
