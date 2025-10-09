@@ -43,10 +43,11 @@ Focused on **container security, compliance automation, and reproducible labs**
 
 ---
 
-## 🌐 Personal Website
+🌐 Personal Website
 
-- Check out my personal website for a full view of my work, certifications, and community projects:  
-- 👉 [danielbzura.com](https://danielbzura.com)
+- 🏠 **[danielbzura.com](https://danielbzura.com)
+  *A central hub for my cybersecurity projects, volunteering as CTO at PolishYouth.org, 
+    and community leadership with Orly FC — blending technical rigor with personal impact.*
 
 ---
 
