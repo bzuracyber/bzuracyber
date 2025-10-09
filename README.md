@@ -78,12 +78,6 @@ Focused on **container security, compliance automation, and reproducible labs**
 - 🕵️ **[Detecting Vulnerabilities Using SemGrep]**  
 - 🛡️ **[Container & Dependency Security Scanning Using Trivy]**  
 
----
-
-## 🐍 Python  
-
-- 📈 **[Stock Portfolio Tracker](https://github.com/bzuracyber/stock-portfolio-tracker)**  
-  *Python-based financial tracker with real-time updates.*  
 
 ---
 
