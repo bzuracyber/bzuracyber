@@ -54,7 +54,7 @@ Focused on **container security, compliance automation, and reproducible labs**
 - 🔒 **[Container Security Lab with Docker and EKS](https://github.com/bzuracyber/container-security-lab-docker-eks)**  
   *Runtime monitoring, Falco alerts, and compliance evidence mapping (NIST SI-4, SOC 2).*  
 - ⚙️ **[CI/CD Pipeline Security](https://github.com/bzuracyber/CI-CD-Security-Pipeline-with-SAST-and-IaC-Scanning)**  
-  *Shift-left security with IaC scanning and SAST integration.*  
+  *Security with IaC scanning and SAST integration.*  
 
 ---
 
