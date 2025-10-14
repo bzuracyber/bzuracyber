@@ -1,4 +1,4 @@
-# <a href="https://www.danielbzura.com">Project Portfolio</a>  
+# 🏠 <a href="https://www.danielbzura.com">danielbzura.com</a>  
 
 <p align="center">
   <!-- ISC2 -->
@@ -32,11 +32,6 @@
 </p>
 
 ---
-
-# 🏠 <a href="https://www.danielbzura.com">danielbzura.com</a>
-
----
-
 ## 🛡️ Platform Security  
 
 - 🔒 **[Container Security Lab with Docker and EKS](https://github.com/bzuracyber/container-security-lab-docker-eks)**  
