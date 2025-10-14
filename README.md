@@ -1,13 +1,13 @@
 # <a href="https://www.danielbzura.com">DANIELBZURA.COM</a>  
 
 <p align="center">
-  <img src="images/cissp.jpg" alt="CISSP" width="80" />
-  <img src="images/securityplus.png" alt="Security+" width="80" />
-  <img src="images/cysa.png" alt="CySA+" width="80" />
-  <img src="images/pentest.jpg" alt="PenTest+" width="80" />
-  <img src="images/azureadmin.png" alt="Azure Administrator" width="80" />
-  <img src="images/sysops.png" alt="AWS SysOps Administrator" width="80" />
-  <img src="images/cisa.png" alt="CISA" width="80" />
+  <img src="https://img.shields.io/badge/ISC2-CISSP-2E8B57?logo=isc2&logoColor=white" alt="CISSP" height="24">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-ED1C24?logo=comptia&logoColor=white" alt="Security+" height="24">
+  <img src="https://img.shields.io/badge/CompTIA-CySA%2B-ED1C24?logo=comptia&logoColor=white" alt="CySA+" height="24">
+  <img src="https://img.shields.io/badge/CompTIA-PenTest%2B-ED1C24?logo=comptia&logoColor=white" alt="PenTest+" height="24">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Administrator-0078D4?logo=microsoftazure&logoColor=white" alt="Azure Administrator" height="24">
+  <img src="https://img.shields.io/badge/AWS-SysOps%20Administrator-FF9900?logo=amazonaws&logoColor=white" alt="AWS SysOps Administrator" height="24">
+  <img src="https://img.shields.io/badge/ISACA-CISA-782A8C?logo=isaca&logoColor=white" alt="CISA" height="24">
 </p>
 
 ---
