@@ -1,4 +1,4 @@
-# 🏠 <a href="https://www.danielbzura.com">danielbzura.com</a>  
+# <a href="https://www.danielbzura.com">DANIELBZURA.COM</a>  
 
 <p align="center">
   <img src="images/cissp.jpg" alt="CISSP" width="80" />
@@ -10,7 +10,6 @@
   <img src="images/cisa.png" alt="CISA" width="80" />
 </p>
 
-
 ---
 
 <p align="center">
@@ -18,7 +17,8 @@
   <img src="https://img.shields.io/badge/Kubernetes-☸️-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-💠-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ansible-⚙️-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-🧪-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 </p>
 
 ---
