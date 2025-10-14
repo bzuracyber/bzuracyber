@@ -27,32 +27,12 @@
   *Security with IaC scanning and SAST integration.*
 - 🧪 **[Selenium Lab for Web App Security](https://github.com/bzuracyber/beginner-selenium-lab)**  
   *Automated browser testing with Selenium for OWASP Juice Shop, validating security workflows and CI/CD healthchecks.*
-  
----
-
-## 🌍 Terraform  
-
 - 🏗️ **[Simple Terraform Deployment](https://github.com/bzuracyber/first-terraform-deployment)**  
   *Infrastructure-as-Code fundamentals with reproducible deployments.*  
-
----
-
-## 🐳 Docker  
-
-- 📦 **[Docker Sandbox Deployment](https://github.com/bzuracyber/docker-sandbox-deployment)**  
+- 🐳 **[Docker Sandbox Deployment](https://github.com/bzuracyber/docker-sandbox-deployment)**  
   *Lightweight containerized environments for testing and demos.*  
-
----
-
-## ☸️ Kubernetes  
-
-- 🔄 **[Simple Kubernetes Deployment](https://github.com/bzuracyber/simple-kubernetes-deployment)**  
+- ☸️ **[Simple Kubernetes Deployment](https://github.com/bzuracyber/simple-kubernetes-deployment)**  
   *Hands-on YAML manifests, RBAC fixes, and reproducible workloads.*  
-
----
-
-## 🧪 SAST / SCA  
-
 - 🕵️ **[Detecting Vulnerabilities Using SemGrep](https://github.com/bzuracyber/Detecting-Vulnerabilities-Using-SemGrep)**  
 - 🛡️ **[Container & Dependency Security Scanning Using Trivy](https://github.com/bzuracyber/Container-Dependency-Security-Scanning-Using-Trivy)**  
 
@@ -62,10 +42,3 @@
 
 - 🧩 **[Vulnerability Management Program Implementation](https://github.com/bzuracyber/Vulnerability-Management)**  
 - 🤖 **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/bzuracyber/Automated-Vulnerability-Remediation)**  
-
----
-
-## 📜 Compliance Automation  
-
-- ✅ **[Compliance-as-Code Pipeline](https://github.com/bzuracyber/Azure-Compliance-as-Code-Pipeline)**  
-  *Automated evidence generation mapped to frameworks like NIST & SOC 2.*  
