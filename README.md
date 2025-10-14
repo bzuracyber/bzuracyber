@@ -1,14 +1,11 @@
-# 🚀 <a href="https://www.linkedin.com/in/daniel-bzura-0b3a9b1b5/">Daniel Bzura's</a> Project Portfolio  
+# 🚀 <a href="https://www.danielbzura.com">Daniel Bzura's</a> Project Portfolio  
 
 <p align="center">
   <!-- ISC2 -->
   <img src="https://img.shields.io/badge/CISSP-ISC2-2E8B57?style=for-the-badge&logo=ISC2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CC-ISC2-2E8B57?style=for-the-badge&logo=ISC2&logoColor=white"/>
 
   <!-- CompTIA -->
   <img src="https://img.shields.io/badge/Security%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/A%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CySA%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
   <img src="https://img.shields.io/badge/PenTest%2B-CompTIA-FF0000?style=for-the-badge&logo=comptia&logoColor=white"/>
 
@@ -27,18 +24,16 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Security-blue?style=for-the-badge&logo=datadog&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-🐳-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-☸️-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Terraform-💠-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Compliance-Automation-2E8B57?style=for-the-badge"/>
 
 </p>
 
 ---
 
-Welcome to my hands-on security engineering portfolio! 🔐  
+Welcome to my security engineering portfolio! 🔐  
 Focused on **container security, compliance automation, and reproducible labs**
 
 ---
