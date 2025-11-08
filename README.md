@@ -23,8 +23,8 @@
 
 - 🔒 **[Container Security Lab with Docker and EKS](https://github.com/bzuracyber/container-security-lab-docker-eks)**  
   *Runtime monitoring, Falco alerts, and compliance evidence mapping (NIST SI-4, SOC 2).*  
-- ⚙️ **[CI/CD Pipeline Security](https://github.com/bzuracyber/CI-CD-Security-Pipeline-with-SAST-and-IaC-Scanning)**  
-  *Security with IaC scanning and SAST integration.*
+- ⚙️ **[CI Pipeline Security](https://github.com/bzuracyber/DevSecOps-CI-Pipeline)]**  
+  *Example CI Pipeline with pytest, bandit, trivy, semgrep, and gitleaks.*
 - 🧪 **[Selenium Lab for Web App Security](https://github.com/bzuracyber/beginner-selenium-lab)**  
   *Automated browser testing with Selenium for OWASP Juice Shop, validating security workflows and CI/CD healthchecks.*
 - 🏗️ **[Simple Terraform Deployment](https://github.com/bzuracyber/first-terraform-deployment)**  
